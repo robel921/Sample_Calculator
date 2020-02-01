@@ -1,6 +1,7 @@
 ## Sample_Calculator
 
 #1. What is the purpose of the directory structure given on p. 30?
+
 #2. What is the purpose of the directory structure given on p. 31?
 #3. Why do you need to be in the project1 directory for step 5?
 #4. Why is the copying of step 6 necessary?
